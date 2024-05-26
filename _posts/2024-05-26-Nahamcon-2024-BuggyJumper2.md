@@ -2,7 +2,7 @@
 title: Buggy Jumper 2 - NahamconCTF 2024
 date: 2024-05-26
 categories: [CTF Writeups]
-tags: [CTF, NahamconCTF 2024, Mobile]
+tags: [CTF, NahamconCTF 2024, Mobile, ADB]
 ---
 
 NahamCon CTF 2024
@@ -23,7 +23,6 @@ Using ADB shell to modify the value of `saved_value.dat` in my [Genymotion](http
 **Flag obtained after buying the drippy buggy in the BuggyJumper App**
 
 ![Decompiled APK](../assets/nahamconctf2024/buggy_store.png)
-
 ![Decompiled APK](../assets/nahamconctf2024/buggy_jumper2_flag.png)
 
 
