@@ -2,7 +2,7 @@
 title: Buggy Jumper 1 - NahamconCTF 2024
 date: 2024-05-26
 categories: [CTF Writeups]
-tags: [CTF, NahamconCTF 2024, Mobile]
+tags: [CTF, NahamconCTF 2024, Mobile, Godot]
 ---
 
 NahamCon CTF 2024
@@ -27,5 +27,6 @@ Using [gdsdecomp a Godot Reverse Engineering](https://github.com/bruvzg/gdsdecom
 ![Decompiled APK](../assets/nahamconctf2024/decompile2.png)
 ![Decompiled APK](../assets/nahamconctf2024/decompile_success.png)
 
-Open the decompiled flag.gd
+**Flag obtained after opening the decompiled flag.gd**
+
 ![Decompiled APK](../assets/nahamconctf2024/buggyjumper1_flag.png)
